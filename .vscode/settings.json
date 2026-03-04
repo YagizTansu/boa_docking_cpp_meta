@@ -82,5 +82,6 @@
         "*.ipp": "cpp",
         "core": "cpp",
         "dense": "cpp"
-    }
+    },
+    "ROS2.distro": "jazzy"
 }
